@@ -1,2 +1,2 @@
-# read.me
-This is my personal repo for README.
+# HI THERE 🙋‍♂
+I am a web programming student, and here I will publish my personal and professional projects. 💻📖
